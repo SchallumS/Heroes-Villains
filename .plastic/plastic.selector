@@ -1,0 +1,4 @@
+repository "Heroes & Vilains@Neferpitou_XNIJ@cloud"
+  path "/"
+    br "/main"
+    co "/main"
